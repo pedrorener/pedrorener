@@ -1,7 +1,7 @@
 ## Welcome to my profile! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width=28>
 
 <p align="center">
-<a href="renerpedro@gmail.com" alt="Gmail">
+<a href="mailto:renerpedro@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=renerpedro@gmail.com" /></a>
 
   <a href="https://www.linkedin.com/in/pedrorener/" alt="Linkedin">
