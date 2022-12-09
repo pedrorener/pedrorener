@@ -3,7 +3,6 @@
 <p align="center">
 <a href="mailto:renerpedro@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=renerpedro@gmail.com" /></a>
-
   <a href="https://www.linkedin.com/in/pedrorener/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrorener/" /></a>
 
@@ -14,7 +13,7 @@
 ### A little about myself:
 
 - 👨🏻‍💻 &nbsp; My name is Pedro Rener, I'm 23 years old, I'm a web development student. I am always willing to learn and contribute, whatever the challenge or technology.
-- 
+- 💚 &nbsp; I am a student at <a href="https://www.betrybe.com/" target="_blank">Trybe</a> and currently my focus is on web development with the javascript stack, I am working to improve my programming skills and soft skills.
 - 🕹 &nbsp; In my free time I like to watch series and read books.
 
 ### Lenguages and tols:
