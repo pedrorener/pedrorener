@@ -13,7 +13,7 @@
 ### A little about myself:
 
 - 👨🏻‍💻 &nbsp; My name is Pedro Rener, I'm 24 years old, I'm a web development student. I am always willing to learn and contribute, whatever the challenge or technology.
-- 💙 &nbsp; I am a student at <a href="https://kenzie.com.br/" target="_blank">Kenzie Academy</a> and currently my focus is on web development with the javascript stack, I am working to improve my programming skills and soft skills.
+- 💚 &nbsp; I am a student at <a href="https://www.betrybe.com/" target="_blank">Trybe</a> and currently my focus is on web development with the javascript stack, I am working to improve my programming skills and soft skills.
 - 🕹 &nbsp; In my free time I like to watch series and read books.
 
 ### Lenguages and tols:
