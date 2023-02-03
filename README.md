@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/alvesxpdr/"/></a>
 </p>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="300px" width="300px" align="right" alt="Computador">
 
 <strong>Sobre mim:</strong>
 - 👨🏻‍💻 &nbsp; Meu nome é Pedro Rener, tenho 24 anos, sou estudante de desenvolvimento web. Estou disposto a aprender e contribuir, seja qual for o desafio ou tecnologia.
