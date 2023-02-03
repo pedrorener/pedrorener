@@ -1,7 +1,7 @@
 
 
 <h3 align="left">Olá! 👋 seja bem vindo ao meu perfil!</h3>
-<p align="left">
+<p align="center">
 <a href="mailto:renerpedro@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=renerpedro@gmail.com" /></a>
   <a href="https://www.linkedin.com/in/pedrorener/" alt="Linkedin">
