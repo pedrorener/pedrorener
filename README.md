@@ -17,15 +17,18 @@
 
 - 🕹 &nbsp; No meu tempo livre gosto de jogar, assistir séries de tv e ler livros.
 
-<strong align="left">Linguagens e tecnologias:</strong>
+<strong align="left">Tecnologias e ferramentas:</strong>
 <p align="left">
   <img width="30px" src="https://skillicons.dev/icons?i=javascript" alt="javascript icon"/>
   <img width="30px" src="https://skillicons.dev/icons?i=html" alt="html icon"/>
   <img width="30px" src="https://skillicons.dev/icons?i=css" alt="css icon"/>
   <img width="30px" src="https://skillicons.dev/icons?i=react" alt="react icon"/>
+  <img width="30px" src="https://skillicons.dev/icons?i=sass" alt="sass icon"/>
+  <img width="30px" src="https://skillicons.dev/icons?i=vite" alt="vite icon"/>
+  <img width="30px" src="https://skillicons.dev/icons?i=git" alt="git icon"/>
 </p>
 
-<strong align="left">Github Starts:</strong>
+<strong align="left">Github starts:</strong>
 <div align="center">
   <a href="https://github.com/pedrorener">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pedrorener&count_private=true&include_all_commits=true&show_icons=true&theme=radical&hide_border=false&show_owner=true"/>
