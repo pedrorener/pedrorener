@@ -21,7 +21,6 @@
 <p align="left">
   <img width="30px" src="https://skillicons.dev/icons?i=javascript" alt="javascript icon"/>
   <img width="30px" src="https://skillicons.dev/icons?i=ts" alt="ts icon"/>
-  <img width="30px" src="https://skillicons.dev/icons?i=java&theme=light" alt="java icon"/>
   <img width="30px" src="https://skillicons.dev/icons?i=html" alt="html icon"/>
   <img width="30px" src="https://skillicons.dev/icons?i=css" alt="css icon"/>
   <img width="30px" src="https://skillicons.dev/icons?i=react" alt="react icon"/>
