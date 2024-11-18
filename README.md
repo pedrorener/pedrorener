@@ -22,7 +22,7 @@
 </p>
 
 <strong>Github Stats:</strong>
-<div align="center">
+<div>
  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pedrorener&show_icons=true&theme=tokyonight&count_private=true"/>
  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrorener&layout=compact&langs_count=10&theme=tokyonight&count_private=true"    />
 </div>
