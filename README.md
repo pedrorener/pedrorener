@@ -22,9 +22,9 @@
 </p>
 
 <strong>Github Stats:</strong>
-<div>
- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pedrorener&show_icons=true&theme=tokyonight&count_private=true"/>
- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrorener&layout=compact&langs_count=10&theme=tokyonight&count_private=true"    />
+<div align="center">
+ <img height="135em" src="https://github-readme-stats.vercel.app/api?username=pedrorener&show_icons=true&theme=tokyonight&count_private=true"/>
+ <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrorener&layout=compact&langs_count=10&theme=tokyonight&count_private=true"    />
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4A327B&height=120&section=footer"/>
